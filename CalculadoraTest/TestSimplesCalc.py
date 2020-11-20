@@ -19,10 +19,5 @@ class TestSimplesCalc(unittest.TestCase):
         self.assertEqual(6, self.calc.add())
 
 
-
-
-
-
-
 if __name__ == '__main__':
     unittest.main()
